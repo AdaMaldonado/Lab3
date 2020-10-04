@@ -1,6 +1,8 @@
 # Lab3
 CISC 3130 Lab#3
 
+This repository was created to display my source code, input and output of the third lab assignment for the course CISC 3130. The assignment was to read data from a text file that was given from a record label executive in CSV format of a weekly report containing the top streamed music artists on Spotify Charts, and to process this list of information and report the artists who appeared on the top streamed list in alphabetical order using linked lists.
+
 # Installation
 These are the instructions on how to run my program/code, as well as the description of the technologies I used.
 
@@ -18,6 +20,7 @@ These are the steps to compile Report.java and run the program Report. Source co
 4. Move again into the subdirectory src/report using the command cd src/report
 5. Compile the java file using the java compiler command javac Report.java
 5. Run the compiled java program with the java command java Report
+
 The output should be the same as the output text file: Artists-Weekof09032020.txt
 
 ## Folder Structure
