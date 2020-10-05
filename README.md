@@ -16,7 +16,7 @@ These are the steps to compile ReportLab3.java and run the program Report. Sourc
 
 1. Sign up for a GitHub account if you don't have one. Set up your SSH keys with github.
 2. Clone this repository to your machine to get a copy.
-3. Move into the project's root directory with cd lab2
+3. Move into the project's root directory with cd lab3
 4. Move again into the subdirectory src/reportlab3 using the command cd src/reportlab3
 5. Compile the java file using the java compiler command javac ReportLab3.java
 5. Run the compiled java program with the java command java ReportLab3
