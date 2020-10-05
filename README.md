@@ -26,4 +26,4 @@ The output should be the same as the output text file: Artists-Weekof09032020.tx
 ## Folder Structure
 * Source Code is saved into the src/report folder.
 * Data is called regional-global-weekly-latest.csv which is saved into the Report folder.
-* Output is called Artists-Weekof09032020.txt which is saved into the Report folder.
+* Output is called ArtistsSorted-Weekof09032020.txt which is saved into the Report folder.
