@@ -21,9 +21,9 @@ These are the steps to compile Report.java and run the program Report. Source co
 5. Compile the java file using the java compiler command javac Report.java
 5. Run the compiled java program with the java command java Report
 
-The output should be the same as the output text file: Artists-Weekof09032020.txt
+The output should be the same as the output text file: ArtistsSorted-Weekof09032020.txt
 
 ## Folder Structure
-* Source Code is saved into the src/report folder.
+* Source Code is saved into the src folder, as well as the node and linked list classes.
 * Data is called regional-global-weekly-latest.csv which is saved into the Report folder.
 * Output is called ArtistsSorted-Weekof09032020.txt which is saved into the Report folder.
